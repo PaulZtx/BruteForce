@@ -1,0 +1,14 @@
+/Users/pashkevich/RiderProjects/Bruteforce/Bruteforce/bin/Debug/net6.0/Bruteforce
+/Users/pashkevich/RiderProjects/Bruteforce/Bruteforce/bin/Debug/net6.0/Bruteforce.deps.json
+/Users/pashkevich/RiderProjects/Bruteforce/Bruteforce/bin/Debug/net6.0/Bruteforce.runtimeconfig.json
+/Users/pashkevich/RiderProjects/Bruteforce/Bruteforce/bin/Debug/net6.0/Bruteforce.dll
+/Users/pashkevich/RiderProjects/Bruteforce/Bruteforce/bin/Debug/net6.0/Bruteforce.pdb
+/Users/pashkevich/RiderProjects/Bruteforce/Bruteforce/obj/Debug/net6.0/Bruteforce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pashkevich/RiderProjects/Bruteforce/Bruteforce/obj/Debug/net6.0/Bruteforce.AssemblyInfoInputs.cache
+/Users/pashkevich/RiderProjects/Bruteforce/Bruteforce/obj/Debug/net6.0/Bruteforce.AssemblyInfo.cs
+/Users/pashkevich/RiderProjects/Bruteforce/Bruteforce/obj/Debug/net6.0/Bruteforce.csproj.CoreCompileInputs.cache
+/Users/pashkevich/RiderProjects/Bruteforce/Bruteforce/obj/Debug/net6.0/Bruteforce.dll
+/Users/pashkevich/RiderProjects/Bruteforce/Bruteforce/obj/Debug/net6.0/refint/Bruteforce.dll
+/Users/pashkevich/RiderProjects/Bruteforce/Bruteforce/obj/Debug/net6.0/Bruteforce.pdb
+/Users/pashkevich/RiderProjects/Bruteforce/Bruteforce/obj/Debug/net6.0/Bruteforce.genruntimeconfig.cache
+/Users/pashkevich/RiderProjects/Bruteforce/Bruteforce/obj/Debug/net6.0/ref/Bruteforce.dll
